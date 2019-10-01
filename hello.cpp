@@ -2,7 +2,7 @@
      
     using namespace std;
      
-    // Creating class
+    // Creating class and obj
      
     class Message
     {
