@@ -2,7 +2,7 @@
      
     using namespace std;
      
-    // Creating class
+    // Creating class and obj
      
     class Message
     {
@@ -13,3 +13,10 @@
         }
     };
      
+int main()
+{
+    Message c;    // Creating an object
+    c.display();  // Calling the function
+ 
+    return 0;
+}
